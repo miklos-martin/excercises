@@ -1,0 +1,20 @@
+{
+    "name": "excercises/poly",
+    "description": "Refactor using \"replace conditional with polymorphism\". Do this kata five days in a row, refactoring to a different design pattern each time. Then do it one more time only this time focus on taking the smallest steps possible and still keep the tests green. Also find ways to clean up the test code, as there's some duplication that can go as well.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Miklós",
+            "email": "miklos.martin@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "~4.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Excercises\\Poly\\": "src",
+            "Excercises\\Poly\\Tests\\": "tests"
+        }
+    }
+}
