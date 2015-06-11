@@ -1,0 +1,20 @@
+{
+    "name": "excercises/list-combiner",
+    "description": "Combine two lists by alternatingly taking elements.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Miklós",
+            "email": "miklos.martin@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "~4.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Excercises\\Combiner\\": "src",
+            "Excercises\\Combiner\\Tests\\": "tests"
+        }
+    }
+}
