@@ -13,5 +13,4 @@ Fix the test if necessary.
 
 ### Hints
 
-- http://php.net/manual/en/class.iterator.php
-- http://php.net/manual/en/language.generators.overview.php
+If you have no clue how to do this, check out the [hints](hints.md) for a little help.
