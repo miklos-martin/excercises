@@ -1,6 +1,6 @@
 <?php
 
-namespace Excercises\squint\tests;
+namespace Excercises\Squint\Tests;
 
 use Excercises\Squint\Integers;
 
