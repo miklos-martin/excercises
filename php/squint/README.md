@@ -9,6 +9,7 @@ I've met with this excercise in this blog (about functional programming) https:/
 Try hard to mimic the clojure form of the program, which is `(take 25 (squares-of (integers)))`
 
 Also, make the function declarations better with proper type hints.
+Fix the test if necessary.
 
 ### Hints
 
