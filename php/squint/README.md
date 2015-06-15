@@ -9,7 +9,8 @@ I've met with this excercise in this blog (about functional programming) https:/
 Try hard to mimic the clojure form of the program, which is `(take 25 (squares-of (integers)))`
 
 ```php
-take(25, squaresOf(integers()))
+<?php
+take(25, squaresOf(integers()));
 ```
 
 Where
