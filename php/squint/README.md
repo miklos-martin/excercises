@@ -19,10 +19,7 @@ Where
 - `squaresOf` takes a list of integers, and returns a list of their squares
 - `take()` takes a number, and a list and returns the first `n` elem of the list 
 
-Make the function declarations better with proper type hints.
-Fix the test if necessary.
-
-Try to avoid any side effects.
+Avoid any side effects, use _pure functions_.
 
 ### Hints
 
