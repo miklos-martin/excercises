@@ -1,6 +1,6 @@
 <?php
 
-function take($elems, $collection) {
+function take($count, $collection) {
 
 }
 
