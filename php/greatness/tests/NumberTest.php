@@ -24,7 +24,7 @@ class NumberTest extends \PHPUnit_Framework_TestCase
             'single elem array' => [[1], 1],
             'the obvious' => [[1, 2], 21],
             'the trick' => [[10, 2], 210],
-            'a longer case just to make sure' => [[100, 9, 34, 514], 951434100]
+            'oh man, that changes it all' => [[2, 22, 21], 22221]
         ];
     }
 }
